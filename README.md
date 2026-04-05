@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Ethical-Hacking-Writeups
-=======
+
 # What is Networking?
 
 **TL;DR**  
@@ -45,4 +44,3 @@ Author: cookiesn1ffer
 License: MIT — see root `LICENSE` file.
 
 ---
->>>>>>> dfa54af (Initial commit: ethical-hacking-writeups)
